@@ -11,5 +11,6 @@ toy project my site
 2. 백엔드는 최대한 RESTFUL하게..<br>
 3. 백엔드에 많은 기술 적용해보기..Redis,,MQ,,LocalCaching,,보안토큰(기본),,로깅(기본),,<br>
 4. GitHub-JenKins연동으로 자동배포 해보기..<br>
+5. 기능별로 api분리해서 Docker, MSA 사용해보기<br>
 <br><br>
 <b>우선 1번만으로도 대만족할만한 기쁨을 누릴것 같다.. 화이팅</b>
