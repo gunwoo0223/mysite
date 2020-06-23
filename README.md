@@ -14,3 +14,5 @@ toy project my site
 5. 기능별로 api분리해서 Docker, 쿠버네티스, MSA 사용해보기<br>
 <br><br>
 <b>우선 1번만으로도 대만족할만한 기쁨을 누릴것 같다.. 화이팅</b>
+<br><br>
+1. Logback으로 로깅을 설정 해보았다. Exception이 예상되는 곳에 적어두도록 하자.
