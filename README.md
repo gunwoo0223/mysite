@@ -2,9 +2,9 @@
 toy project my site
 
 사용될 기술<br>
-백엔드: Spring Boot, JPA<br>
-프론트엔드: Vue<br>
-데이터베이스: MySQL<br>
+백엔드: Spring Boot 2.3.1, JPA<br>
+프론트엔드: Vue 2.6.11 (Vue-Cli 4.4.6)<br>
+데이터베이스: MySQL 5.7.30<br>
 웹서버: 스프링부트 내장 Tomcat서버(WAS) + NginX(프론트용 웹서버) = 프론트엔드와 백엔드 서버를 따로 두어 관리 (서버를 독립적으로 두어 프론트를 여러개 운영하고 싶은 마음에..)
 <br><br>
 목표<br>
@@ -17,4 +17,4 @@ toy project my site
 <b>우선 1번만으로도 대만족할만한 기쁨을 누릴것 같다.. 화이팅</b>
 <br><br>
 - Logback으로 로깅을 설정 해보았다. Exception이 예상되는 곳에 적어두도록 하자.<br>
-- 기본 Vue프로젝트를 구성하였다. "Vue웹서버" <-> "SpringBoot WAS서버" 통신을 시켜보자.<br>
+- 기본 Vue프로젝트를 구성하였다. 우선 로컬에서 "Vue웹서버" <-> "SpringBoot WAS서버" 통신을 시켜보자.<br>
